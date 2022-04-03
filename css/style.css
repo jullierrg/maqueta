@@ -1,0 +1,36 @@
+html,
+body {
+    background-image: url('../imgenes/HD-wallpaper-flag-of-tierra-del-fuego-silk-flag-province-of-argentina-silk-texture-tierra-del-fuego-province-flag-creative-art-tierra-del-fuego-argentina.jpeg');
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+div {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+div1 {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 500px;
+}
+.social_icon span{
+    font-size: 60px;
+    margin-left: 10px;
+    color: #FFC312;
+}
+    
+.social_icon span:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.social_icon{
+    right: 20px;
+    top: -45px;
+}
